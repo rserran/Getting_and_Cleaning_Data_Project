@@ -16,7 +16,8 @@ The purpose of this project is to demonstrate your ability to collect, work with
 
 ## Scripts and Outputs
 
-Deliverable | Script/Output 
+Deliverable | Script/Output
+--- | ---
 ReadMe | README.MD |
 Code book | CodeBook.md
 Analysis R Script | run_analysis.R 
