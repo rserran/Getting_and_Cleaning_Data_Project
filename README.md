@@ -21,4 +21,4 @@ Deliverable | Script/Output
 ReadMe | README.MD |
 Code book | CodeBook.md
 Analysis R Script | run_analysis.R 
-Tidy Data Set | tidy_data.csv
+Tidy Data Set | tidy_data.txt
